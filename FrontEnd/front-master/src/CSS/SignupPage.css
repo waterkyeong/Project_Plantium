@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+.Signpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Viewport Height 전체를 커버하도록 설정 */
+  width: 100vw; /* Viewport Width 전체를 커버하도록 설정 */
+  background-color: #f0f0f0;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* 폼 컨테이너 스타일 */
+.Signform-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 제목 스타일 */
+.Signtitle {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 폼 스타일 */
+.Signform {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 입력 그룹 스타일 */
+.Signinput-group {
+  margin-bottom: 15px;
+  width: 100%;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 레이블 스타일 */
+.Signlabel {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #666;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 입력 필드 스타일 */
+.Signinput {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 버튼 스타일 */
+.Signbutton {
+  background-color: #0F2C22;
+  color: #ffffff;
+  border: none;
+  padding: 12px 0;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+  line-height: 1.5;
+  transition: background-color 0.3s ease;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 버튼 호버 스타일 */
+.Signbutton:hover {
+  background-color: #185a43;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 로그인 링크 스타일 */
+.Signlogin-button {
+  width: 100%;
+  margin-top: 5px;
+  display: inline-block;
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+/* 링크 컨테이너 스타일 */
+.Signlink-container {
+  margin-top: 5px;
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;  /* 폰트 패밀리 적용 */
+}
+
+.Signerror {
+  color: red;
+  font-size: 0.875rem;
+  margin-top: 5px;
+}
