@@ -3,7 +3,7 @@
 > #### Frontend:엄고운 / Backend: 김수경
 > #### 식집사들을 위한 커뮤티니 시스템
 > - 주요 컨텐츠 : 
-> - [PPT 보러가기](https://docs.google.com/presentation/d/1pRTXkGOmqRY88kIemju9mnibnCP35TGR/edit?usp=sharing&ouid=102338183650544043258&rtpof=true&sd=true)
+> - [PPT 보러가기](https://docs.google.com/presentation/d/1pRTXkGOmqRY88kIemju9mnibnCP35TGR/edit?usp=sharing)
 
 <br />
 
